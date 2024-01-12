@@ -14,7 +14,7 @@
 ## 4. Shows different icons for different weather condition.
 
 
-# Enter the location
+# Enter the city whose weather conditions you want to know.
 ![Screenshot 2024-01-13 011707](https://github.com/mehrapallavi/Weather-Application/assets/117376335/8038eabe-3dcb-4055-af02-6ef992d5d5ac)
 
 
@@ -25,11 +25,12 @@
 
 
 
-## Enter a valid location.
-![Screenshot 2024-01-13 011832](https://github.com/mehrapallavi/Weather-Application/assets/117376335/eadc0f89-f4cc-463c-8c59-241dcc49171d)
+## Enter a valid city.
+![Screenshot 2024-01-13 014648](https://github.com/mehrapallavi/Weather-Application/assets/117376335/27098138-9706-4314-90ae-19e62c0c58f5)
 
 
 
-## Current temperature, humidity and wind speed in New York.
-![Screenshot 2024-01-13 011851](https://github.com/mehrapallavi/Weather-Application/assets/117376335/bfd0094f-023d-4f20-9337-99ef0424fee6)
+## Current temperature, humidity and wind speed in Berlin.
+![Screenshot 2024-01-13 014709](https://github.com/mehrapallavi/Weather-Application/assets/117376335/f5f52956-fba5-4726-a6a5-19f14e35f4ec)
+
 
