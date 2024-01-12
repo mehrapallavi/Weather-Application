@@ -14,7 +14,7 @@
 ## 4. Shows different icons for different weather condition.
 
 
-# Enter the city whose weather conditions you want to know.
+# Enter the location
 ![Screenshot 2024-01-13 011707](https://github.com/mehrapallavi/Weather-Application/assets/117376335/8038eabe-3dcb-4055-af02-6ef992d5d5ac)
 
 
@@ -25,7 +25,7 @@
 
 
 
-## Enter a valid city name.
+## Enter a valid location.
 ![Screenshot 2024-01-13 011832](https://github.com/mehrapallavi/Weather-Application/assets/117376335/eadc0f89-f4cc-463c-8c59-241dcc49171d)
 
 
